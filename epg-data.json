@@ -1,7 +1,7 @@
 {
   "channels": [
     {
-      "id": "svt1",
+      "channelNr": 1,
       "name": "SVT 1",
       "programs": [
         {
@@ -100,7 +100,7 @@
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-1-wide.png"
     },
     {
-      "id": "svt2",
+      "channelNr": 2,
       "name": "SVT 2",
       "programs": [
         {
@@ -199,7 +199,7 @@
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-2-wide.png"
     },
     {
-      "id": "tv3",
+      "channelNr": 3,
       "name": "TV3",
       "programs": [
         {
@@ -298,7 +298,7 @@
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-3-wide.png"
     },
     {
-      "id": "tv4",
+      "channelNr": 4,
       "name": "TV4",
       "programs": [
         {
@@ -397,7 +397,7 @@
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-4-wide.png"
     },
     {
-      "id": "kanal5",
+      "channelNr": 5,
       "name": "Kanal 5",
       "programs": [
         {
@@ -496,7 +496,7 @@
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-5-wide.png"
     },
     {
-      "id": "tv6",
+      "channelNr": 6,
       "name": "TV6",
       "programs": [
         {
@@ -595,7 +595,7 @@
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-6-wide.png"
     },
     {
-      "id": "kanal7",
+      "channelNr": 7,
       "name": "Sjuan",
       "programs": [
         {
