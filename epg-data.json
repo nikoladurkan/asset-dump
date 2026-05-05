@@ -3,6 +3,8 @@
     {
       "channelNr": 1,
       "name": "SVT 1",
+      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-1-square.png",
+      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-1-wide.png",
       "programs": [
         {
           "slot": -3,
@@ -15,7 +17,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         },
         {
           "slot": -2,
@@ -28,7 +32,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": "News",
+          "ageRating": "All ages"
         },
         {
           "slot": -1,
@@ -41,7 +47,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Talk Show",
+          "ageRating": "All ages"
         },
         {
           "slot": 0,
@@ -54,7 +62,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": true,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "News",
+          "ageRating": "All ages"
         },
         {
           "slot": 1,
@@ -67,7 +77,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": true,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": "News",
+          "ageRating": "All ages"
         },
         {
           "slot": 2,
@@ -80,7 +92,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": "Lifestyle",
+          "ageRating": "All ages"
         },
         {
           "slot": 3,
@@ -93,15 +107,17 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         }
-      ],
-      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-1-square.png",
-      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-1-wide.png"
+      ]
     },
     {
       "channelNr": 2,
       "name": "SVT 2",
+      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-2-square.png",
+      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-2-wide.png",
       "programs": [
         {
           "slot": -3,
@@ -114,7 +130,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         },
         {
           "slot": -2,
@@ -127,7 +145,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": "Lifestyle",
+          "ageRating": "All ages"
         },
         {
           "slot": -1,
@@ -140,7 +160,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Documentary",
+          "ageRating": "11+"
         },
         {
           "slot": 0,
@@ -153,7 +175,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Documentary",
+          "ageRating": "All ages"
         },
         {
           "slot": 1,
@@ -166,7 +190,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": "Documentary",
+          "ageRating": "11+"
         },
         {
           "slot": 2,
@@ -179,7 +205,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": true,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "News",
+          "ageRating": "All ages"
         },
         {
           "slot": 3,
@@ -192,15 +220,17 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         }
-      ],
-      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-2-square.png",
-      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-2-wide.png"
+      ]
     },
     {
       "channelNr": 3,
       "name": "TV3",
+      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-3-square.png",
+      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-3-wide.png",
       "programs": [
         {
           "slot": -3,
@@ -213,7 +243,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         },
         {
           "slot": -2,
@@ -226,7 +258,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": "Reality",
+          "ageRating": "All ages"
         },
         {
           "slot": -1,
@@ -239,7 +273,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Comedy",
+          "ageRating": "All ages"
         },
         {
           "slot": 0,
@@ -252,7 +288,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Comedy",
+          "ageRating": "All ages"
         },
         {
           "slot": 1,
@@ -265,7 +303,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": "Reality",
+          "ageRating": "All ages"
         },
         {
           "slot": 2,
@@ -278,7 +318,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Reality",
+          "ageRating": "All ages"
         },
         {
           "slot": 3,
@@ -291,15 +333,17 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         }
-      ],
-      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-3-square.png",
-      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-3-wide.png"
+      ]
     },
     {
       "channelNr": 4,
       "name": "TV4",
+      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-4-square.png",
+      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-4-wide.png",
       "programs": [
         {
           "slot": -3,
@@ -312,7 +356,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         },
         {
           "slot": -2,
@@ -325,7 +371,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "News",
+          "ageRating": "All ages"
         },
         {
           "slot": -1,
@@ -338,7 +386,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "News",
+          "ageRating": "All ages"
         },
         {
           "slot": 0,
@@ -351,7 +401,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Reality",
+          "ageRating": "All ages"
         },
         {
           "slot": 1,
@@ -364,7 +416,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Reality",
+          "ageRating": "11+"
         },
         {
           "slot": 2,
@@ -377,7 +431,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Documentary",
+          "ageRating": "All ages"
         },
         {
           "slot": 3,
@@ -390,15 +446,17 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         }
-      ],
-      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-4-square.png",
-      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-4-wide.png"
+      ]
     },
     {
       "channelNr": 5,
       "name": "Kanal 5",
+      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-5-square.png",
+      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-5-wide.png",
       "programs": [
         {
           "slot": -3,
@@ -411,7 +469,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         },
         {
           "slot": -2,
@@ -424,7 +484,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Game Show",
+          "ageRating": "All ages"
         },
         {
           "slot": -1,
@@ -437,7 +499,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Documentary",
+          "ageRating": "All ages"
         },
         {
           "slot": 0,
@@ -450,7 +514,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Documentary",
+          "ageRating": "11+"
         },
         {
           "slot": 1,
@@ -463,7 +529,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Documentary",
+          "ageRating": "All ages"
         },
         {
           "slot": 2,
@@ -476,7 +544,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Reality",
+          "ageRating": "All ages"
         },
         {
           "slot": 3,
@@ -489,15 +559,17 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         }
-      ],
-      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-5-square.png",
-      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-5-wide.png"
+      ]
     },
     {
       "channelNr": 6,
       "name": "TV6",
+      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-6-square.png",
+      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-6-wide.png",
       "programs": [
         {
           "slot": -3,
@@ -510,7 +582,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         },
         {
           "slot": -2,
@@ -523,7 +597,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Comedy",
+          "ageRating": "11+"
         },
         {
           "slot": -1,
@@ -536,7 +612,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Factual",
+          "ageRating": "All ages"
         },
         {
           "slot": 0,
@@ -549,7 +627,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Drama",
+          "ageRating": "15+"
         },
         {
           "slot": 1,
@@ -562,7 +642,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Action",
+          "ageRating": "15+"
         },
         {
           "slot": 2,
@@ -575,7 +657,9 @@
           "imdbRating": 6.0,
           "showImdb": true,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Action",
+          "ageRating": "15+"
         },
         {
           "slot": 3,
@@ -588,15 +672,17 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         }
-      ],
-      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-6-square.png",
-      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-6-wide.png"
+      ]
     },
     {
       "channelNr": 7,
       "name": "Sjuan",
+      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-7-square.png",
+      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-7-wide.png",
       "programs": [
         {
           "slot": -3,
@@ -609,7 +695,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         },
         {
           "slot": -2,
@@ -622,7 +710,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Soap",
+          "ageRating": "All ages"
         },
         {
           "slot": -1,
@@ -635,7 +725,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Soap",
+          "ageRating": "All ages"
         },
         {
           "slot": 0,
@@ -648,7 +740,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Crime",
+          "ageRating": "All ages"
         },
         {
           "slot": 1,
@@ -661,7 +755,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Crime",
+          "ageRating": "All ages"
         },
         {
           "slot": 2,
@@ -674,7 +770,9 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": true
+          "availableForPlay": true,
+          "genre": "Crime",
+          "ageRating": "All ages"
         },
         {
           "slot": 3,
@@ -687,11 +785,11 @@
           "imdbRating": null,
           "showImdb": false,
           "isLive": false,
-          "availableForPlay": false
+          "availableForPlay": false,
+          "genre": null,
+          "ageRating": null
         }
-      ],
-      "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-7-square.png",
-      "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-7-wide.png"
+      ]
     }
   ]
 }
