@@ -24,7 +24,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         },
         {
           "slot": -2,
@@ -44,7 +45,24 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": "News",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": -1,
@@ -64,7 +82,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Talk Show",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 0,
@@ -84,7 +124,34 @@
           "isLive": true,
           "availableForPlay": true,
           "genre": "News",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "watch-live",
+              "label": "Watch live",
+              "enabled": true
+            },
+            {
+              "id": "watch-from-beginning",
+              "label": "Watch from beginning",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 1,
@@ -104,7 +171,29 @@
           "isLive": true,
           "availableForPlay": false,
           "genre": "News",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 2,
@@ -124,7 +213,29 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": "Lifestyle",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 3,
@@ -144,7 +255,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         }
       ]
     },
@@ -172,7 +284,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         },
         {
           "slot": -2,
@@ -192,7 +305,24 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": "Lifestyle",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": -1,
@@ -212,7 +342,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Documentary",
-          "ageRating": "11+"
+          "ageRating": "11+",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 0,
@@ -232,7 +384,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Documentary",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "watch-live",
+              "label": "Watch live",
+              "enabled": true
+            },
+            {
+              "id": "watch-from-beginning",
+              "label": "Watch from beginning",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 1,
@@ -252,7 +431,29 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": "Documentary",
-          "ageRating": "11+"
+          "ageRating": "11+",
+          "actions": [
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 2,
@@ -272,7 +473,34 @@
           "isLive": true,
           "availableForPlay": true,
           "genre": "News",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 3,
@@ -292,7 +520,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         }
       ]
     },
@@ -320,7 +549,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         },
         {
           "slot": -2,
@@ -340,7 +570,24 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": "Reality",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": -1,
@@ -360,7 +607,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Comedy",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 0,
@@ -380,7 +649,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Comedy",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "watch-live",
+              "label": "Watch live",
+              "enabled": true
+            },
+            {
+              "id": "watch-from-beginning",
+              "label": "Watch from beginning",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 1,
@@ -400,7 +696,29 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": "Reality",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 2,
@@ -420,7 +738,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Reality",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 3,
@@ -440,7 +785,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         }
       ]
     },
@@ -468,7 +814,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         },
         {
           "slot": -2,
@@ -488,7 +835,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "News",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": -1,
@@ -508,7 +877,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "News",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 0,
@@ -528,7 +919,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Reality",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "watch-live",
+              "label": "Watch live",
+              "enabled": true
+            },
+            {
+              "id": "watch-from-beginning",
+              "label": "Watch from beginning",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 1,
@@ -548,7 +966,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Reality",
-          "ageRating": "11+"
+          "ageRating": "11+",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 2,
@@ -568,7 +1013,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Documentary",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 3,
@@ -588,7 +1060,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         }
       ]
     },
@@ -616,7 +1089,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         },
         {
           "slot": -2,
@@ -636,7 +1110,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Game Show",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": -1,
@@ -656,7 +1152,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Documentary",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 0,
@@ -676,7 +1194,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Documentary",
-          "ageRating": "11+"
+          "ageRating": "11+",
+          "actions": [
+            {
+              "id": "watch-live",
+              "label": "Watch live",
+              "enabled": true
+            },
+            {
+              "id": "watch-from-beginning",
+              "label": "Watch from beginning",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 1,
@@ -696,7 +1241,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Documentary",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 2,
@@ -716,7 +1288,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Reality",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 3,
@@ -736,7 +1335,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         }
       ]
     },
@@ -764,7 +1364,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         },
         {
           "slot": -2,
@@ -784,7 +1385,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Comedy",
-          "ageRating": "11+"
+          "ageRating": "11+",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": -1,
@@ -804,7 +1427,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Factual",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 0,
@@ -824,7 +1469,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Drama",
-          "ageRating": "15+"
+          "ageRating": "15+",
+          "actions": [
+            {
+              "id": "watch-live",
+              "label": "Watch live",
+              "enabled": true
+            },
+            {
+              "id": "watch-from-beginning",
+              "label": "Watch from beginning",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 1,
@@ -844,7 +1516,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Action",
-          "ageRating": "15+"
+          "ageRating": "15+",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 2,
@@ -864,7 +1563,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Action",
-          "ageRating": "15+"
+          "ageRating": "15+",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 3,
@@ -884,7 +1610,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         }
       ]
     },
@@ -912,7 +1639,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         },
         {
           "slot": -2,
@@ -932,7 +1660,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Soap",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": -1,
@@ -952,7 +1702,29 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Soap",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 0,
@@ -972,7 +1744,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Crime",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "watch-live",
+              "label": "Watch live",
+              "enabled": true
+            },
+            {
+              "id": "watch-from-beginning",
+              "label": "Watch from beginning",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 1,
@@ -992,7 +1791,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Crime",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 2,
@@ -1012,7 +1838,34 @@
           "isLive": false,
           "availableForPlay": true,
           "genre": "Crime",
-          "ageRating": "All ages"
+          "ageRating": "All ages",
+          "actions": [
+            {
+              "id": "play",
+              "label": "Play",
+              "enabled": true
+            },
+            {
+              "id": "go-to-channel",
+              "label": "Go to channel",
+              "enabled": true
+            },
+            {
+              "id": "tv-guide",
+              "label": "TV Guide",
+              "enabled": true
+            },
+            {
+              "id": "record-this-episode",
+              "label": "Record this episode",
+              "enabled": false
+            },
+            {
+              "id": "record-series",
+              "label": "Record series",
+              "enabled": false
+            }
+          ]
         },
         {
           "slot": 3,
@@ -1032,7 +1885,8 @@
           "isLive": false,
           "availableForPlay": false,
           "genre": null,
-          "ageRating": null
+          "ageRating": null,
+          "actions": []
         }
       ]
     }
