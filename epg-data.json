@@ -5,6 +5,7 @@
       "name": "SVT 1",
       "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-1-square.png",
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-1-wide.png",
+      "videoFile": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/video-files/channel-1-0.mp4",
       "programs": [
         {
           "slot": -3,
@@ -33,11 +34,11 @@
           "title": "Sports News",
           "image": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/program-images/channel-1-program-1.jpg",
           "startTime": "18:30",
-          "endTime": "18:40",
+          "endTime": "18:41",
           "startTimeMinutes": 1110,
-          "endTimeMinutes": 1120,
+          "endTimeMinutes": 1121,
           "totalDuration": 11,
-          "broadcastTime": "18:30 – 18:40",
+          "broadcastTime": "18:30 – 18:41",
           "description": "Bringing you the latest sports news, analysis and in-depth coverage.",
           "progress": 100,
           "imdbRating": null,
@@ -158,12 +159,12 @@
           "type": "future",
           "title": "SVT Local News",
           "image": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/program-images/channel-1-program-4.jpg",
-          "startTime": "19:55",
+          "startTime": "19:30",
           "endTime": "20:00",
           "startTimeMinutes": 1170,
           "endTimeMinutes": 1200,
           "totalDuration": 30,
-          "broadcastTime": "19:55 – 20:00",
+          "broadcastTime": "19:30 – 20:00",
           "description": "News from SVT's local newsrooms.",
           "progress": null,
           "imdbRating": null,
@@ -265,6 +266,7 @@
       "name": "SVT 2",
       "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-2-square.png",
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-2-wide.png",
+      "videoFile": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/video-files/channel-2-0.mp4",
       "programs": [
         {
           "slot": -3,
@@ -329,12 +331,12 @@
           "type": "past",
           "title": "Ready for Disaster",
           "image": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/program-images/channel-2-program-2.jpg",
-          "startTime": "19:00",
+          "startTime": "18:40",
           "endTime": "19:40",
           "startTimeMinutes": 1120,
           "endTimeMinutes": 1180,
           "totalDuration": 60,
-          "broadcastTime": "19:00 – 19:40",
+          "broadcastTime": "18:40 – 19:40",
           "description": "S1, E3: A fictional volcanic eruption in Iceland triggers widespread air pollution and a global food shortage. What happens to society when harvests fail and food prices soar? Part 3 of 6.",
           "progress": 100,
           "imdbRating": null,
@@ -530,6 +532,7 @@
       "name": "TV3",
       "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-3-square.png",
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-3-wide.png",
+      "videoFile": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/video-files/channel-3-0.mp4",
       "programs": [
         {
           "slot": -3,
@@ -795,6 +798,7 @@
       "name": "TV4",
       "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-4-square.png",
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-4-wide.png",
+      "videoFile": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/video-files/channel-4-0.mp4",
       "programs": [
         {
           "slot": -3,
@@ -1070,6 +1074,7 @@
       "name": "Kanal 5",
       "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-5-square.png",
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-5-wide.png",
+      "videoFile": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/video-files/channel-5-0.mp4",
       "programs": [
         {
           "slot": -3,
@@ -1345,6 +1350,7 @@
       "name": "TV6",
       "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-6-square.png",
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-6-wide.png",
+      "videoFile": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/video-files/channel-6-0.mp4",
       "programs": [
         {
           "slot": -3,
@@ -1620,6 +1626,7 @@
       "name": "Sjuan",
       "logoSquare": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-7-square.png",
       "logoWide": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/channel-logos/channel-7-wide.png",
+      "videoFile": "https://raw.githubusercontent.com/nikoladurkan/asset-dump/refs/heads/main/video-files/channel-7-0.mp4",
       "programs": [
         {
           "slot": -3,
